@@ -1,0 +1,14 @@
+C:\Users\42147309842\Desktop\Lista C#-3\Lista C#-3\Lista C#-3\bin\Debug\net8.0\Lista C#-3.exe
+C:\Users\42147309842\Desktop\Lista C#-3\Lista C#-3\Lista C#-3\bin\Debug\net8.0\Lista C#-3.deps.json
+C:\Users\42147309842\Desktop\Lista C#-3\Lista C#-3\Lista C#-3\bin\Debug\net8.0\Lista C#-3.runtimeconfig.json
+C:\Users\42147309842\Desktop\Lista C#-3\Lista C#-3\Lista C#-3\bin\Debug\net8.0\Lista C#-3.dll
+C:\Users\42147309842\Desktop\Lista C#-3\Lista C#-3\Lista C#-3\bin\Debug\net8.0\Lista C#-3.pdb
+C:\Users\42147309842\Desktop\Lista C#-3\Lista C#-3\Lista C#-3\obj\Debug\net8.0\Lista C#-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42147309842\Desktop\Lista C#-3\Lista C#-3\Lista C#-3\obj\Debug\net8.0\Lista C#-3.AssemblyInfoInputs.cache
+C:\Users\42147309842\Desktop\Lista C#-3\Lista C#-3\Lista C#-3\obj\Debug\net8.0\Lista C#-3.AssemblyInfo.cs
+C:\Users\42147309842\Desktop\Lista C#-3\Lista C#-3\Lista C#-3\obj\Debug\net8.0\Lista C#-3.csproj.CoreCompileInputs.cache
+C:\Users\42147309842\Desktop\Lista C#-3\Lista C#-3\Lista C#-3\obj\Debug\net8.0\Lista C#-3.dll
+C:\Users\42147309842\Desktop\Lista C#-3\Lista C#-3\Lista C#-3\obj\Debug\net8.0\refint\Lista C#-3.dll
+C:\Users\42147309842\Desktop\Lista C#-3\Lista C#-3\Lista C#-3\obj\Debug\net8.0\Lista C#-3.pdb
+C:\Users\42147309842\Desktop\Lista C#-3\Lista C#-3\Lista C#-3\obj\Debug\net8.0\Lista C#-3.genruntimeconfig.cache
+C:\Users\42147309842\Desktop\Lista C#-3\Lista C#-3\Lista C#-3\obj\Debug\net8.0\ref\Lista C#-3.dll
